@@ -32,11 +32,6 @@ When the user clicks the input field labeled "Speech Recognition," the record() 
 
 In conclusion, this code sample illustrates a fundamental JavaScript implementation of voice recognition in a web page. Users may talk into their device's microphone and then click the input box to have their spoken words translated into text. This approach may be used as a starting point for user interfaces and complex voice recognition applications.
 
-# Tutorialspoint website:
-
- There are other websites available, however the one I recommend is found at this link:
-   [link](https://www.tutorialspoint.com/online_html_editor.php)
-
 # HTML Code:
 
     <!DOCTYPE html>
@@ -76,8 +71,18 @@ In conclusion, this code sample illustrates a fundamental JavaScript implementat
 # OutPut ScreenShot:
 
   ![photo](outPut.png)
-  
+
+# Tutorialspoint website:
+
+ There are other websites available, however the one I recommend is found at this link:
+   [link](https://www.tutorialspoint.com/online_html_editor.php)
+
 # Simulation:
 
  You can launch the project's simulation by clicking this link:
+ 
+ The webpage:
+ [link](Voice_Recognition.html)
+ 
+ Tutorialspoint website:
  [link](http://tpcg.io/TYGJMX)
