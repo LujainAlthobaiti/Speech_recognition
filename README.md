@@ -1,5 +1,5 @@
-# Voice_Recognition
-using an online HTML editor to create speech recognition. 
+# Voice_Recognition:
+Creating a website for speech recognition. You can also create speech recognition using an online HTML editor.
 
 # Voice Recognition:
 
