@@ -1,7 +1,7 @@
-# Voice_Recognition:
+# Speech_recognition:
 Creating a website for speech recognition. You can also create speech recognition using an online HTML editor.
 
-# Voice Recognition:
+# Speech Recognition:
 
  A straightforward implementation of speech recognition capabilities on a web page is shown by the supplied HTML code snippet. With the help of this code, users will be able to speak text into an input field, which will subsequently be translated and displayed as text.
 
@@ -20,8 +20,8 @@ The JavaScript code embedded within the <script> tags defines the record() funct
 
 A new instance of the webkitSpeechRecognition class is created and assigned to the recognition variable. This class is a built-in browser API for speech recognition.
 The lang property of the recognition object is set to "en-GB", indicating that the recognition will be performed using British English.
-The onresult event handler is defined for the recognition object. This handler is triggered when speech is recognized.
-Inside the event handler, the recognized speech data is retrieved from the event.results object. The text transcript of the recognized speech is extracted from event.results[0][0].transcript.
+The onresult event handler is defined as the recognition object. This handler is triggered when speech is recognized.
+Inside the event handler, the recognized speech data is retrieved from the event.results object. The text transcript of the recognized speech is extracted from the event.results[0][0].transcript.
 The extracted transcript is then used to set the value of the input field using document.getElementById('speechToText').value.
 
 # Overall Functionality:
@@ -30,7 +30,7 @@ When the user clicks the input field labeled "Speech Recognition," the record() 
 
 # Conclusion:
 
-In conclusion, this code sample illustrates a fundamental JavaScript implementation of voice recognition on a web page. Users may talk into their device's microphone and then click the input box to have their spoken words translated into text. This approach may be used as a starting point for user interfaces and complex voice recognition applications.
+In conclusion, this code sample illustrates a fundamental JavaScript implementation of speech recognition on a web page. Users may talk into their device's microphone and then click the input box to have their spoken words translated into text. This approach may be used as a starting point for user interfaces and complex speech recognition applications.
 
 # HTML Code:
 
