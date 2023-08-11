@@ -6,4 +6,5 @@ using an online HTML editor to create speech recognition.
    [link](https://www.tutorialspoint.com/online_html_editor.php)
 
 # OutPut ScreenShot:
- 
+
+  ![photo](outPut.png)
